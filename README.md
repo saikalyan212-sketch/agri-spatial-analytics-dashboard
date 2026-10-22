@@ -23,7 +23,7 @@ By combining field agronomy principles with spatial data science, this project m
 
 ## Repository Contents
 * `gee_multi_temporal_extraction.js`: The Google Earth Engine script used to process and export the Sentinel-2 image stack.
-* `Smart_Farm_Analytics.geojson`: The final processed spatial dataset containing plot geometries, calculated area, mean index values, and advisory text.
+* `Smart_Farm_Analytics 3.geojson`: The final processed spatial dataset containing plot geometries, calculated area, mean index values, and advisory text.
 * `qgis_agronomic_workflow.md`: Documentation of the raster calculator formulas and field calculator logic applied in QGIS.
 
 ---
