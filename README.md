@@ -1,6 +1,6 @@
 # AI-Driven Crop Health & Water Stress Analytics Dashboard 🛰️🌾
 
-**Live Interactive Dashboard:** [Insert Your ArcGIS StoryMap Link Here]
+**Live Interactive Dashboard:** https://arcg.is/1X4HyD3
 
 ## Project Overview
 This project demonstrates an end-to-end geospatial analytics pipeline for precision agriculture. Focused on the Rabi season in Mahbubnagar, Telangana, the workflow processes multi-temporal satellite imagery to extract plot-level agronomic intelligence without requiring heavy manual coding. The final output is an interactive Web GIS dashboard providing automated irrigation advisories and crop vigour assessments.
