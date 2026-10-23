@@ -27,4 +27,4 @@ By combining field agronomy principles with spatial data science, this project m
 * `qgis_agronomic_workflow.md`: Documentation of the raster calculator formulas and field calculator logic applied in QGIS.
 
 ---
-*Created by [Juluru Sai Kalyan] - Connect with me on [LinkedIn Link]*
+*Created by [Juluru Sai Kalyan] - Connect with me on www.linkedin.com/in/sai-kalyan-924694384*
